@@ -1,0 +1,41 @@
+	<key>DeviceProperties</key>
+	<dict>
+		<key>Add</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>
+				BgAmFg==
+				</data>
+				<key>framebuffer-fbmem</key>
+				<data>
+				AACQAA==
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				AAAwAQ==
+				</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>
+				AAAAgA==
+				</data>
+				<key>model</key>
+				<string>Intel Broadwell i5-5200U [HD Graphics 5500]</string>
+			</dict>
+		</dict>
+...
+
+	<key>PlatformInfo</key>
+	<dict>
+		<key>Generic</key>
+		<dict>
+			<key>SystemProductName</key>
+			<string>MacBook8,1</string>
+...
+
+		</dict>
